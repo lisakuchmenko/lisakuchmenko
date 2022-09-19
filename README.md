@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lisa Kuchmenko!
-- 👀 I’m interested in Front-End development
-- 📫 How to reach me: elizabeth.kuchmenko@gmail.com
+- 👋 Hi, I’m Liza Kuchmenko a Frontend Developer!
+- 👀 I’m passionate of coding, computer games and cats:)
+- 📫 How to reach me: liza.kuchmenko@gmail.com
 
